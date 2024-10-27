@@ -43,3 +43,4 @@ function multiplyFunc(x, y)
 var c = multiplyFunc(a, b);
 
 console.log("Multiplication result is: ", c);
+

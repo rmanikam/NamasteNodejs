@@ -120,3 +120,5 @@ console.log("Multiplication result is: ", c);
 // now api callback a will be executed. once that is done then setTimeout
 // callback is working
 
+
+
